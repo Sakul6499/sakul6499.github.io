@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/sakul6499
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sakul6499.github.io
+  * I am sakul6499 (https://keybase.io/sakul6499) on keybase.
+  * I have a public key with fingerprint C2BD F628 5BEB 14E3 0667  62E9 479E 5416 B5EC 7891
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203a6b476cd4da5ba1eef67129ed64f1cf16c7baca8266d690e2ab1b6bc73c2fb80a",
+      "fingerprint": "c2bdf6285beb14e3066762e9479e5416b5ec7891",
+      "host": "keybase.io",
+      "key_id": "479e5416b5ec7891",
+      "kid": "01111461db10becc4f4acd42b701a4e79049e8a68b3a001a30cc939ed92f37e3c0b50a",
+      "uid": "650e9858769a5e127f85537a21827519",
+      "username": "sakul6499"
+    },
+    "service": {
+      "hostname": "sakul6499.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1552385205,
+  "expire_in": 157680000,
+  "prev": "3ef1913b10f1a09b037dd61885418af2428629625bf70fab2662735ddc832e7f",
+  "seqno": 132,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUjtoVEEUXTVKEggYkDRi4QTBIoT5vPmthaCFIEgauwjL3Jk7m0eS99Z9b9eE
+ELAQtBLTx2AhWFtooWhhK1rYCjbBIqhFQARBgvNW04i3GeZw7plz7twHU8da49NX
+dq7PPPu6tnXk7R60bty983KDQBnWSXuDLOPowJWAVd1ZzgNpE8o4FU5BppUPWXAS
+HEOMSjNuMagsMh+Z8hqcd4YrFZSlyB0wUOC18DyCoY7MkZgXXez3+nlRJ1nPIUTF
+jQQElqGgSmnF0WbaosyYAoleG8tS41JZNR3JHLgK5/MyYenSGdn7D//Qd6pMsQCM
+AnqfxcylABw0ZS5DbWlm0ThlQDiaIEG9tyJFsjwKjcJTkCPfg5GckhStkUYr6yQy
+rqORUmjHmeFaMtsQK+wXbhUTu3LLgxWVWUs250iCh7nHZrJNlH8p8928XhrAn1y9
+flmXvlxJhKW67lXtRqBe7zUdtxA6f7U6kBchzTN1DLFf5WVB2iwxfZ034kxKLozk
+VM4RXOvlfezkDUNqZWiq5h0ckjYQgZFZJtKMInPUAhU6BMWMSTM1LvKMG8Wt4hKi
+ptFB+mCuhQzBG8FRR9LEu1mUSVzw5NR1m2h5t3D1oI9kc/LeYKw1Pd46M3N27M2r
+H+cXv5zaPdGFvcMlPH602cDW5MTJQ+Tax9bBxW+PLrS/Z0UkY1vV++01tXh6eIlf
+fv1penV3/+rCfuvXxG05u+A/wMH085+fYebcw+0Xs+9OhHzn6ZOp7fvrj38D
+=fHUF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sakul6499
+
+==================================================================
+
